@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="switch_controller">
+        <attr name="active_opacity" format="float" />
+        <attr name="inactive_opacity" format="float" />
+        <attr name="is_sticky" format="boolean" />
+        <attr name="detect_transparency" format="boolean" />
+        <attr name="keep_inside" format="boolean" />
+    </declare-styleable>
+
+</resources>
