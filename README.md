@@ -7,10 +7,8 @@ Add the jitpack maven repository
 ```
 allprojects {
   repositories {
-    maven { 
-      ...
-       url 'https://jitpack.io'
-    }
+    ...
+    maven { url 'https://jitpack.io' }
   }
 }
 ``` 
